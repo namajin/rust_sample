@@ -1,0 +1,10 @@
+C:\Users\Hiroshi Nakamura\first_rust_project\addsample\target\debug\deps\version_check-8ed4b72e6399c915.rmeta: C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+C:\Users\Hiroshi Nakamura\first_rust_project\addsample\target\debug\deps\libversion_check-8ed4b72e6399c915.rlib: C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+C:\Users\Hiroshi Nakamura\first_rust_project\addsample\target\debug\deps\version_check-8ed4b72e6399c915.d: C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs
+
+C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\lib.rs:
+C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\version.rs:
+C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\channel.rs:
+C:\Users\Hiroshi\ Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\version_check-0.9.4\src\date.rs:
